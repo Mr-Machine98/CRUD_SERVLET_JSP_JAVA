@@ -1,5 +1,5 @@
 # CRUD JAVA WEB UTILIZANDO SERVLET/JSP + BOOTSTRAP 
-Este proyecto realicé para ampliar mis conocimientos en el desarrollo de aplicaciones **Java** web, básicamente, el programa es un crud que lista clientes, agrega,  actualiza, y borra.
+Este proyecto lo realicé para ampliar mis conocimientos en el desarrollo de aplicaciones **Java** web, básicamente, el programa es un crud que lista clientes, agrega,  actualiza, y borra.
 
 -------------------------------------------------------------
 Esta es el diagrama para entender como funciona el programa:
