@@ -7,7 +7,6 @@ Esta es el diagrama para entender como funciona el programa:
 > ![DIAGRAMA](https://github.com/Mr-Machine98/CRUD_SERVLET_JSP_JAVA/blob/main/MVC_Servlet.drawio.png)
 -------------------------------------------------------------
 > Algunas imágenes del aplicativo:
-> > ![DIAGRAMA](https://github.com/Mr-Machine98/CRUD_SERVLET_JSP_JAVA/blob/main/MVC_Servlet.drawio.png)
 > > ![LISTAR](https://github.com/Mr-Machine98/CRUD_SERVLET_JSP_JAVA/blob/main/listar.PNG)
 > > ![AGREGAR](https://github.com/Mr-Machine98/CRUD_SERVLET_JSP_JAVA/blob/main/agregar.PNG)
 > > ![ACTUALIZAR_BORRAR](https://github.com/Mr-Machine98/CRUD_SERVLET_JSP_JAVA/blob/main/ActualizarBorrar.PNG)
